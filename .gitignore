@@ -16,3 +16,5 @@ data/
 *.jpg
 *.jpeg
 
+# brainstorm/content folder
+plastic-diary-data-story-brainstorm/
